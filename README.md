@@ -100,4 +100,5 @@ response: [
 ## Resources
 
 Written Tutorial - https://blog.couchbase.com/creating-user-profile-store-with-node-js-nosql-database/
+
 Video Tutorial - https://blog.couchbase.com/develop-user-profile-store-session-store-node-js-video/
